@@ -1,0 +1,23 @@
+# Design Validation
+
+## Review and Simulation
+
+After the completion of the schematic and PCB layout design, we conducted a thorough review and simulation of the design. The purpose of this step was to ensure the functionality and reliability of our quantum computing product for space applications.
+
+The review process involved a detailed examination of the schematic and PCB layout. We checked for any inconsistencies or errors in the design. The simulation process involved running the design in a simulated space environment to test its performance and durability.
+
+## KiCAD’s Design Rules Check (DRC)
+
+We utilized KiCAD’s Design Rules Check (DRC) to ensure our design adheres to manufacturing standards. The DRC is a powerful tool that checks for common errors in PCB designs, such as overlapping components, incorrect track widths, and missing connections.
+
+The DRC was run multiple times during the design process to catch any potential issues early on. After the final design was completed, a comprehensive DRC was conducted to ensure that all aspects of the design meet the required standards.
+
+## Results
+
+The results of the review, simulation, and DRC were positive. The design was found to be free of errors and performed well in the simulated space environment. The DRC confirmed that the design adheres to all manufacturing standards.
+
+This validation process gives us confidence in the functionality and reliability of our quantum computing product for space applications. We believe that this product will perform well in the harsh conditions of space and contribute to advancements in space technology.
+
+## Next Steps
+
+The next step in the process is to prepare for the patent application. This will involve gathering all documentation, including the KiCAD blueprint and README.md, and consulting with a patent attorney to ensure the design is novel and meets patentability criteria.
